@@ -3,8 +3,8 @@
 Al momento de ejecutar el archivo *main.py* sonará una alarma cuando se haya terminado la ejecución.
 
 ## Referencia
-![out](https://raw.githubusercontent.com/ElGutiz/Proyecto-2-Raytracing/main/Reference.jpg?token=ANCUS5QM7SBRWPZK3ZXBGWLBSQDKO)
+![out](https://github.com/ElGutiz/Proyecto-2-Raytracing/blob/main/Reference.jpg)
 
 ## Resultado
-![out](https://raw.githubusercontent.com/ElGutiz/Proyecto-2-Raytracing/main/Minecraft_Modern_House.bmp?token=ANCUS5WBHDXQQVVIHFHOQTLBSQC3C)
+![out](https://github.com/ElGutiz/Proyecto-2-Raytracing/blob/main/Minecraft_Modern_House.bmp)
 
